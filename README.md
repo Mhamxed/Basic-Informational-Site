@@ -1,1 +1,1 @@
-# Basic-Informational-Site
+Create a basic informational site using Node.js.
